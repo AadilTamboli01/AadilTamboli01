@@ -1,507 +1,150 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Aadil Tamboli — GitHub Profile</title>
-  <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;600&family=Space+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet"/>
-  <style>
-    * { margin: 0; padding: 0; box-sizing: border-box; }
+<div align="center">
 
-    body {
-      background: #010409;
-      font-family: 'Space Grotesk', sans-serif;
-      display: flex;
-      justify-content: center;
-      padding: 40px 16px;
-      min-height: 100vh;
-    }
+# 👋 Hey, I'm Aadil Tamboli!
 
-    .readme-wrap {
-      background: #0d1117;
-      color: #c9d1d9;
-      padding: 40px 36px;
-      border-radius: 14px;
-      max-width: 880px;
-      width: 100%;
-      font-size: 14px;
-      line-height: 1.7;
-      border: 1px solid #21262d;
-    }
+### 🚀 Full Stack Developer | MERN Stack | Java & Python
 
-    /* HERO */
-    .hero {
-      text-align: center;
-      padding: 40px 20px 36px;
-      border-bottom: 1px solid #21262d;
-      margin-bottom: 36px;
-    }
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;REST+API+Builder;Open+Source+Lover)](https://git.io/typing-svg)
 
-    .avatar-ring {
-      width: 108px;
-      height: 108px;
-      border-radius: 50%;
-      background: linear-gradient(135deg, #00d4ff, #7928ca, #ff0080);
-      padding: 3px;
-      margin: 0 auto 18px;
-      display: inline-block;
-    }
+📍 Pune, India &nbsp;•&nbsp; 🎓 B.Tech IT @ GH Raisoni College &nbsp;•&nbsp; 📊 CGPA: 8.2/10
 
-    .avatar-inner {
-      width: 100%;
-      height: 100%;
-      border-radius: 50%;
-      background: #161b22;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      font-size: 38px;
-      font-family: 'Fira Code', monospace;
-      color: #58a6ff;
-      font-weight: 600;
-    }
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-00875A?style=for-the-badge&logoColor=white)](https://linkedin.com/in/aadiltamboli/)
+[![MERN Stack](https://img.shields.io/badge/MERN%20Stack-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/AadilTamboli01)
+[![Final Year 2026](https://img.shields.io/badge/Final%20Year-2026-orange?style=for-the-badge)](https://github.com/AadilTamboli01)
 
-    .hero h1 {
-      font-size: 30px;
-      font-weight: 700;
-      color: #f0f6fc;
-      letter-spacing: -0.5px;
-      margin-bottom: 8px;
-    }
+</div>
 
-    .typing-line {
-      font-family: 'Fira Code', monospace;
-      font-size: 13px;
-      color: #7ee787;
-      margin-bottom: 12px;
-    }
+---
 
-    .typing-line span { color: #ff7b72; }
+## 🧑‍💻 About Me
 
-    .hero-meta {
-      font-size: 13px;
-      color: #8b949e;
-      margin-bottom: 18px;
-    }
+```javascript
+const aadil = {
+  name:       "Aadil Tamboli",
+  role:       "Full Stack Developer",
+  education:  "B.Tech IT — GH Raisoni College, Pune",
+  cgpa:        8.2,
+  email:      "aadiltamboli07@gmail.com",
+  phone:      "+91 7219014209",
+  focus:      ["Backend Systems", "REST APIs", "Full Stack Apps"],
+  passion:    ["Open Source", "Problem Solving", "Reliable Software"],
+  currentlyWorking: "Final Year Project 🚀"
+};
+```
 
-    .badge-row {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 8px;
-      justify-content: center;
-    }
+> Final-year IT student passionate about building **scalable backend systems**, clean REST APIs, and full-stack web applications. I love open-source technologies and crafting reliable software — one commit at a time.
 
-    .badge {
-      padding: 5px 14px;
-      border-radius: 20px;
-      font-size: 11px;
-      font-weight: 600;
-      font-family: 'Fira Code', monospace;
-      letter-spacing: 0.5px;
-    }
+---
 
-    .badge-blue   { background: #0d2137; color: #58a6ff; border: 1px solid #1f4d7a; }
-    .badge-green  { background: #0d2614; color: #7ee787; border: 1px solid #1a5c26; }
-    .badge-purple { background: #1c1040; color: #d2a8ff; border: 1px solid #3d2080; }
-    .badge-orange { background: #2d1f0a; color: #ffa657; border: 1px solid #6b4517; }
+## 🛠️ Tech Stack
 
-    /* SECTION */
-    .section { margin-bottom: 36px; }
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-    .section-title {
-      font-size: 12px;
-      font-weight: 600;
-      color: #8b949e;
-      text-transform: uppercase;
-      letter-spacing: 1.5px;
-      font-family: 'Fira Code', monospace;
-      display: flex;
-      align-items: center;
-      gap: 10px;
-      margin-bottom: 18px;
-    }
+### ⚙️ Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-593D88?style=flat-square&logo=redux&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
 
-    .section-title::after {
-      content: '';
-      flex: 1;
-      height: 1px;
-      background: #21262d;
-    }
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 
-    /* ABOUT */
-    .about-box {
-      background: #161b22;
-      border: 1px solid #21262d;
-      border-radius: 10px;
-      padding: 22px 26px;
-      border-left: 3px solid #58a6ff;
-    }
+### 🔧 Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 
-    .about-box p { color: #c9d1d9; font-size: 14px; line-height: 1.9; margin-bottom: 16px; }
+---
 
-    .info-grid {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 10px;
-    }
+## 🚀 Featured Projects
 
-    .info-item {
-      display: flex;
-      align-items: center;
-      gap: 8px;
-      font-family: 'Fira Code', monospace;
-      font-size: 12px;
-      color: #8b949e;
-    }
+### 🎨 [DreamPixels](https://github.com/AadilTamboli01) &nbsp; [![Live](https://img.shields.io/badge/Live-Demo-58a6ff?style=flat-square)](https://github.com/AadilTamboli01)
+> Full-stack **AI text-to-image** web application built with MERN stack
 
-    .info-item .dot { color: #58a6ff; }
-    .info-item strong { color: #c9d1d9; }
+- 🔹 10+ REST API endpoints with secure **JWT authentication**
+- 🔹 **MongoDB** for data storage + **Cloudinary** for image management
+- 🔹 Protected routes with middleware, tested via Postman
 
-    /* SKILLS */
-    .skills-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
-      gap: 14px;
-    }
+`React.js` `Node.js` `Express.js` `MongoDB` `JWT` `Cloudinary` `REST API`
 
-    .skill-card {
-      background: #161b22;
-      border: 1px solid #21262d;
-      border-radius: 10px;
-      padding: 18px;
-      transition: border-color 0.2s;
-    }
+---
 
-    .skill-card:hover { border-color: #30363d; }
+### 🐦 [Twitter API](https://github.com/AadilTamboli01)
+> RESTful backend for a **Twitter-like social platform**
 
-    .skill-card-title {
-      font-size: 11px;
-      font-weight: 600;
-      text-transform: uppercase;
-      letter-spacing: 1px;
-      margin-bottom: 12px;
-      font-family: 'Fira Code', monospace;
-    }
+- 🔹 Post, like, comment, follow, and notifications system
+- 🔹 Secure **JWT auth** with protected API routes
+- 🔹 MongoDB schemas for users, posts & interactions
 
-    .skill-tags { display: flex; flex-wrap: wrap; gap: 6px; }
+`Node.js` `Express.js` `MongoDB` `JWT` `Cloudinary` `REST API`
 
-    .tag {
-      padding: 3px 10px;
-      border-radius: 6px;
-      font-size: 11px;
-      font-family: 'Fira Code', monospace;
-      font-weight: 500;
-    }
+---
 
-    .tag-blue   { background: #0d2137; color: #79c0ff; border: 1px solid #1f4d7a; }
-    .tag-green  { background: #0d2614; color: #56d364; border: 1px solid #1a5c26; }
-    .tag-orange { background: #2d1f0a; color: #ffa657; border: 1px solid #6b4517; }
-    .tag-purple { background: #1c1040; color: #d2a8ff; border: 1px solid #3d2080; }
-    .tag-gray   { background: #1c2128; color: #8b949e; border: 1px solid #30363d; }
-    .tag-red    { background: #2d0e0e; color: #ff7b72; border: 1px solid #6b1c1c; }
-    .tag-teal   { background: #061d1d; color: #3fb950; border: 1px solid #0d4a3a; }
+### 💬 [MessageHub](https://github.com/AadilTamboli01)
+> Real-time **chat application** using Socket.io
 
-    /* PROJECTS */
-    .projects-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
-      gap: 14px;
-    }
+- 🔹 Instant messaging with **Socket.io** real-time communication
+- 🔹 8+ REST API endpoints for auth & chat management
+- 🔹 Responsive **React.js** chat interface
 
-    .project-card {
-      background: #161b22;
-      border: 1px solid #21262d;
-      border-radius: 10px;
-      padding: 20px 22px;
-      position: relative;
-      overflow: hidden;
-      transition: border-color 0.2s, transform 0.2s;
-    }
+`React.js` `Node.js` `Express.js` `MongoDB` `Socket.io`
 
-    .project-card:hover { border-color: #30363d; transform: translateY(-2px); }
+---
 
-    .project-card::before {
-      content: '';
-      position: absolute;
-      top: 0; left: 0; right: 0;
-      height: 2px;
-    }
+## 📊 GitHub Stats
 
-    .project-card.blue::before   { background: linear-gradient(90deg, #58a6ff, #1f6feb); }
-    .project-card.green::before  { background: linear-gradient(90deg, #56d364, #2ea043); }
-    .project-card.purple::before { background: linear-gradient(90deg, #d2a8ff, #8957e5); }
+<div align="center">
 
-    .project-name {
-      font-size: 15px;
-      font-weight: 600;
-      color: #f0f6fc;
-      margin-bottom: 8px;
-      font-family: 'Fira Code', monospace;
-    }
+![Aadil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AadilTamboli01&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
 
-    .project-desc {
-      font-size: 12px;
-      color: #8b949e;
-      line-height: 1.7;
-      margin-bottom: 14px;
-    }
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AadilTamboli01&layout=compact&theme=github_dark&hide_border=true)
 
-    .project-stack { display: flex; flex-wrap: wrap; gap: 5px; margin-bottom: 14px; }
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AadilTamboli01&theme=github-dark-blue&hide_border=true)
 
-    .project-links { display: flex; gap: 8px; }
+</div>
 
-    .link-btn {
-      padding: 5px 14px;
-      border-radius: 6px;
-      font-size: 11px;
-      font-family: 'Fira Code', monospace;
-      font-weight: 500;
-      cursor: pointer;
-      text-decoration: none;
-      display: inline-block;
-    }
+---
 
-    .link-btn.primary   { background: #21262d; color: #c9d1d9; border: 1px solid #30363d; }
-    .link-btn.secondary { background: #0d2137; color: #58a6ff; border: 1px solid #1f4d7a; }
+## 🏆 Highlights
 
-    /* STATS */
-    .stats-row {
-      display: grid;
-      grid-template-columns: repeat(3, 1fr);
-      gap: 14px;
-    }
+| 🎯 Achievement | 📌 Details |
+|---|---|
+| 🎓 CGPA | **8.2 / 10** — B.Tech IT |
+| 🏅 B.Tech Competition 2025 | **4th Rank** — GH Raisoni College |
+| 💻 Projects Built | **3+ Full Stack Projects** |
+| 🔗 APIs Designed | **20+ REST API Endpoints** |
 
-    .stat-card {
-      background: #161b22;
-      border: 1px solid #21262d;
-      border-radius: 10px;
-      padding: 22px;
-      text-align: center;
-    }
+---
 
-    .stat-number {
-      font-size: 28px;
-      font-weight: 700;
-      color: #58a6ff;
-      font-family: 'Fira Code', monospace;
-    }
+## 📬 Connect With Me
 
-    .stat-label {
-      font-size: 11px;
-      color: #8b949e;
-      text-transform: uppercase;
-      letter-spacing: 1px;
-      margin-top: 6px;
-      font-family: 'Fira Code', monospace;
-    }
+<div align="center">
 
-    /* SOCIAL */
-    .social-row { display: flex; flex-wrap: wrap; gap: 10px; }
+[![GitHub](https://img.shields.io/badge/GitHub-AadilTamboli01-181717?style=for-the-badge&logo=github)](https://github.com/AadilTamboli01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aadiltamboli-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aadiltamboli/)
+[![Email](https://img.shields.io/badge/Email-aadiltamboli07@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:aadiltamboli07@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-+91%207219014209-25D366?style=for-the-badge&logo=whatsapp)](tel:+917219014209)
 
-    .social-btn {
-      display: flex;
-      align-items: center;
-      gap: 8px;
-      padding: 10px 18px;
-      border-radius: 8px;
-      font-size: 12px;
-      font-family: 'Fira Code', monospace;
-      font-weight: 500;
-      cursor: pointer;
-      background: #161b22;
-      text-decoration: none;
-      transition: opacity 0.2s, transform 0.2s;
-    }
+</div>
 
-    .social-btn:hover { opacity: 0.8; transform: translateY(-1px); }
-    .social-btn.github   { color: #c9d1d9; border: 1px solid #30363d; }
-    .social-btn.linkedin { color: #58a6ff; border: 1px solid #1f4d7a; }
-    .social-btn.email    { color: #ffa657; border: 1px solid #6b4517; }
-    .social-btn.phone    { color: #56d364; border: 1px solid #1a5c26; }
+---
 
-    /* FOOTER */
-    .footer {
-      text-align: center;
-      padding-top: 28px;
-      border-top: 1px solid #21262d;
-      margin-top: 8px;
-      font-family: 'Fira Code', monospace;
-      font-size: 11px;
-      color: #484f58;
-    }
-  </style>
-</head>
-<body>
-  <div class="readme-wrap">
+<div align="center">
 
-    <!-- HERO -->
-    <div class="hero">
-      <div class="avatar-ring">
-        <div class="avatar-inner">AT</div>
-      </div>
-      <h1>Aadil Tamboli</h1>
-      <div class="typing-line">
-        <span>const</span> role = <span>"Full Stack Developer"</span> | <span>"MERN Stack"</span>
-      </div>
-      <div class="hero-meta">📍 Pune, India &nbsp;•&nbsp; B.Tech IT @ GH Raisoni College &nbsp;•&nbsp; CGPA 8.2/10</div>
-      <div class="badge-row">
-        <span class="badge badge-blue">Open to Work</span>
-        <span class="badge badge-green">MERN Stack</span>
-        <span class="badge badge-purple">Java &amp; Python</span>
-        <span class="badge badge-orange">Final Year 2026</span>
-      </div>
-    </div>
+✦ *crafted with passion & lots of* `console.log()` ✦
 
-    <!-- ABOUT -->
-    <div class="section">
-      <div class="section-title">// about me</div>
-      <div class="about-box">
-        <p>Final-year IT student passionate about building <strong style="color:#58a6ff;">scalable backend systems</strong>, clean REST APIs, and full-stack web applications. I love open-source technologies, problem-solving, and crafting reliable software — one commit at a time.</p>
-        <div class="info-grid">
-          <div class="info-item"><span class="dot">▸</span><span>Email: <strong>aadiltamboli07@gmail.com</strong></span></div>
-          <div class="info-item"><span class="dot">▸</span><span>Phone: <strong>+91 7219014209</strong></span></div>
-          <div class="info-item"><span class="dot">▸</span><span>Status: <strong>Final Year Student</strong></span></div>
-          <div class="info-item"><span class="dot">▸</span><span>Focus: <strong>Backend &amp; Full Stack</strong></span></div>
-        </div>
-      </div>
-    </div>
+![Profile Views](https://komarev.com/ghpvc/?username=AadilTamboli01&color=58a6ff&style=flat-square)
 
-    <!-- SKILLS -->
-    <div class="section">
-      <div class="section-title">// tech stack</div>
-      <div class="skills-grid">
-        <div class="skill-card">
-          <div class="skill-card-title" style="color:#58a6ff;">Languages</div>
-          <div class="skill-tags">
-            <span class="tag tag-blue">Java</span>
-            <span class="tag tag-blue">Python</span>
-            <span class="tag tag-orange">JavaScript</span>
-            <span class="tag tag-gray">C</span>
-            <span class="tag tag-orange">HTML/CSS</span>
-          </div>
-        </div>
-        <div class="skill-card">
-          <div class="skill-card-title" style="color:#56d364;">Frameworks</div>
-          <div class="skill-tags">
-            <span class="tag tag-blue">React.js</span>
-            <span class="tag tag-green">Node.js</span>
-            <span class="tag tag-green">Express.js</span>
-            <span class="tag tag-purple">Redux Toolkit</span>
-            <span class="tag tag-teal">Hibernate</span>
-          </div>
-        </div>
-        <div class="skill-card">
-          <div class="skill-card-title" style="color:#ffa657;">Databases</div>
-          <div class="skill-tags">
-            <span class="tag tag-blue">MongoDB</span>
-            <span class="tag tag-orange">MySQL</span>
-          </div>
-        </div>
-        <div class="skill-card">
-          <div class="skill-card-title" style="color:#d2a8ff;">Tools &amp; Concepts</div>
-          <div class="skill-tags">
-            <span class="tag tag-orange">Git</span>
-            <span class="tag tag-gray">GitHub</span>
-            <span class="tag tag-red">Linux</span>
-            <span class="tag tag-gray">VS Code</span>
-            <span class="tag tag-green">Postman</span>
-            <span class="tag tag-purple">REST APIs</span>
-            <span class="tag tag-teal">Agile</span>
-            <span class="tag tag-gray">OOP</span>
-            <span class="tag tag-gray">DSA</span>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <!-- PROJECTS -->
-    <div class="section">
-      <div class="section-title">// featured projects</div>
-      <div class="projects-grid">
-
-        <div class="project-card blue">
-          <div class="project-name">DreamPixels</div>
-          <div class="project-desc">Full-stack AI text-to-image web app with 10+ REST API endpoints, JWT authentication, MongoDB storage &amp; Cloudinary for image management.</div>
-          <div class="project-stack">
-            <span class="tag tag-blue">React.js</span>
-            <span class="tag tag-green">Node.js</span>
-            <span class="tag tag-green">Express.js</span>
-            <span class="tag tag-blue">MongoDB</span>
-            <span class="tag tag-orange">JWT</span>
-          </div>
-          <div class="project-links">
-            <a class="link-btn secondary" href="#">Live Demo</a>
-            <a class="link-btn primary" href="https://github.com/AadilTamboli01" target="_blank">GitHub</a>
-          </div>
-        </div>
-
-        <div class="project-card green">
-          <div class="project-name">Twitter API</div>
-          <div class="project-desc">RESTful backend for a Twitter-like platform — posts, likes, comments, follows, notifications &amp; Cloudinary image uploads.</div>
-          <div class="project-stack">
-            <span class="tag tag-green">Node.js</span>
-            <span class="tag tag-green">Express.js</span>
-            <span class="tag tag-blue">MongoDB</span>
-            <span class="tag tag-orange">JWT</span>
-            <span class="tag tag-purple">REST API</span>
-          </div>
-          <div class="project-links">
-            <a class="link-btn primary" href="https://github.com/AadilTamboli01" target="_blank">GitHub</a>
-          </div>
-        </div>
-
-        <div class="project-card purple">
-          <div class="project-name">MessageHub</div>
-          <div class="project-desc">Real-time chat system using Socket.io with 8+ endpoints, MongoDB schemas, and a responsive React frontend.</div>
-          <div class="project-stack">
-            <span class="tag tag-blue">React.js</span>
-            <span class="tag tag-purple">Socket.io</span>
-            <span class="tag tag-green">Node.js</span>
-            <span class="tag tag-blue">MongoDB</span>
-          </div>
-          <div class="project-links">
-            <a class="link-btn primary" href="https://github.com/AadilTamboli01" target="_blank">GitHub</a>
-          </div>
-        </div>
-
-      </div>
-    </div>
-
-    <!-- STATS -->
-    <div class="section">
-      <div class="section-title">// highlights</div>
-      <div class="stats-row">
-        <div class="stat-card">
-          <div class="stat-number">8.2</div>
-          <div class="stat-label">CGPA / 10</div>
-        </div>
-        <div class="stat-card">
-          <div class="stat-number">3+</div>
-          <div class="stat-label">Projects Built</div>
-        </div>
-        <div class="stat-card">
-          <div class="stat-number">4th</div>
-          <div class="stat-label">B.Tech Competition</div>
-        </div>
-      </div>
-    </div>
-
-    <!-- SOCIAL -->
-    <div class="section">
-      <div class="section-title">// connect with me</div>
-      <div class="social-row">
-        <a class="social-btn github" href="https://github.com/AadilTamboli01" target="_blank">⌥ GitHub — AadilTamboli01</a>
-        <a class="social-btn linkedin" href="https://linkedin.com/in/aadiltamboli/" target="_blank">in LinkedIn — aadiltamboli</a>
-        <a class="social-btn email" href="mailto:aadiltamboli07@gmail.com">@ Email — aadiltamboli07</a>
-        <a class="social-btn phone" href="tel:+917219014209">☎ +91 7219014209</a>
-      </div>
-    </div>
-
-    <!-- FOOTER -->
-    <div class="footer">
-      ✦ crafted with passion &amp; lots of console.log() ✦ &nbsp;|&nbsp; Aadil Tamboli © 2026
-    </div>
-
-  </div>
-</body>
-</html>
+</div>

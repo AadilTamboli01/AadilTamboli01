@@ -6,7 +6,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;REST+API+Builder;Open+Source+Lover)](https://git.io/typing-svg)
 
-📍 Pune, India &nbsp;•&nbsp; 🎓 B.Tech IT @ GH Raisoni College &nbsp;•&nbsp; 📊 CGPA: 8.2/10
+📍 Pune, India &nbsp;•&nbsp; 🎓 B.Tech IT @ GH Raisoni College &nbsp;•&nbsp;
+
 
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-00875A?style=for-the-badge&logoColor=white)](https://linkedin.com/in/aadiltamboli/)
 [![MERN Stack](https://img.shields.io/badge/MERN%20Stack-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/AadilTamboli01)

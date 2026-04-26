@@ -24,7 +24,7 @@ const aadil = {
   name:       "Aadil Tamboli",
   role:       "Full Stack Developer",
   education:  "B.Tech IT — GH Raisoni College, Pune",
-  cgpa:        8.2,
+  
   email:      "aadiltamboli07@gmail.com",
   phone:      "+91 7219014209",
   focus:      ["Backend Systems", "REST APIs", "Full Stack Apps"],
